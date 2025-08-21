@@ -751,25 +751,8 @@ Run mern-chat-app using the following command:
 8. **Review**: Once your PR is reviewed and approved, it will be merged into the main branch. Congratulations on your contribution!
 </details>
 
-<details closed>
-<summary>Contributor Graph</summary>
-<br>
-<p align="left">
-   <a href="https://github.com{/pankil-soni/mern-chat-app/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=pankil-soni/mern-chat-app">
-   </a>
-</p>
-</details>
-
-## 🎗 License
-
-This project is licensed under the MIT License and Free to use.
-
 ## 📝 About the Author
-This project was developed by  me (**Pankil Soni**). Feel free to reach out with any questions or suggestions.
-- gmail - pmsoni2016@gmail.com
-- kaggle - https://www.kaggle.com/pankilsoni
-- LinkedIn - https://www.linkedin.com/in/pankil-soni-5a0541170/
+- gmail - gawel1990expert@gmail.com@gmail.com
 
 ## 🙌 Acknowledgments
 
