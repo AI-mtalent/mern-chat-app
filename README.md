@@ -720,12 +720,6 @@ Run mern-chat-app using the following command:
 
 ---
 
-## 🔰 Contributing
-
-- **💬 [Join the Discussions](https://github.com/pankil-soni/mern-chat-app/discussions)**: Share your insights, provide feedback, or ask questions.
-- **🐛 [Report Issues](https://github.com/pankil-soni/mern-chat-app/issues)**: Submit bugs found or log feature requests for the `mern-chat-app` project.
-- **💡 [Submit Pull Requests](https://github.com/pankil-soni/mern-chat-app/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-
 <details closed>
 <summary>Contributing Guidelines</summary>
 
