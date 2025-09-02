@@ -745,9 +745,6 @@ Run mern-chat-app using the following command:
 8. **Review**: Once your PR is reviewed and approved, it will be merged into the main branch. Congratulations on your contribution!
 </details>
 
-## 📝 About the Author
-- gmail - gawel1990expert@gmail.com@gmail.com
-
 ## 🙌 Acknowledgments
 
 - List any resources, contributors, inspiration, etc. here.
